@@ -1,0 +1,10 @@
+[submodule "external/GeneticEngine"]
+	path = external/GeneticEngine
+	url = https://github.com/alcides/GeneticEngine.git
+[submodule "external/hypre"]
+	path = external/hypre
+	url = https://github.com/dinesh-parthasarathy/hypre.git
+[submodule "external/hyteg"]
+	path = external/hyteg
+	url = https://i10git.cs.fau.de/hyteg/hyteg.git
+	branch = parthasarathy/FlexibleMultigridSolver
